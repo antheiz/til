@@ -19,6 +19,9 @@ Kumpulan tulisan singkat tentang hal-hal kecil yang sa pelajari sehari-hari di b
 - [Onlinekan Localhost](cloudflare/onlinekan-localhost.md)
 
 
+### Django
+- [UpdateView Bisa Menimpa Variable `user` di Template](django/updateview-menimpa-variable-user.md)
+
 ### Github
 
 - [Deploy ke Linux Server dengan GitHub Actions](github/deploy-linux-github-actions.md)
