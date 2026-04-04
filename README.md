@@ -9,6 +9,7 @@ Kumpulan tulisan singkat tentang hal-hal kecil yang sa pelajari sehari-hari di b
 ### Kategori
 
 * [Cloudflare](#cloudflare)
+* [Django](#django)
 * [GitHub](#github)
 * [Unix](#unix)
 
