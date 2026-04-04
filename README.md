@@ -34,6 +34,9 @@ Kumpulan tulisan singkat tentang hal-hal kecil yang sa pelajari sehari-hari di b
 - [Bersihkan Layar](unix/bersihkan-layar.md)
 - [Multi-Akun SSH Github](unix/multi-ssh-keys.md) 
 
+### Turborepo
+- [Menjalankan Monorepo](turborepo/menjalankan-monorepo.md)
+
 ## Tentang
 
 Ide untuk menulis ini terinspirasi dari repository
