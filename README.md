@@ -12,6 +12,7 @@ Kumpulan tulisan singkat tentang hal-hal kecil yang sa pelajari sehari-hari di b
 * [Django](#django)
 * [GitHub](#github)
 * [Unix](#unix)
+* [Turborepo](#turborepo)
 
 ---
 
