@@ -23,6 +23,7 @@ Kumpulan tulisan singkat tentang hal-hal kecil yang sa pelajari sehari-hari di b
 
 ### Django
 - [UpdateView Bisa Menimpa Variable `user` di Template](django/updateview-menimpa-variable-user.md)
+- [Fix `XAmzContentSHA256Mismatch` saat Upload File ke S3](django/upload-gambar-ke-s3.md)
 
 ### Github
 
