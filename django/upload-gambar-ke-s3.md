@@ -1,6 +1,6 @@
-# Fix `XAmzContentSHA256Mismatch` saat Upload File ke Cloudflare R2
+# Fix `XAmzContentSHA256Mismatch` saat Upload File ke S3
 
-Saat mengupload file dari Django Admin ke Cloudflare R2, muncul error berikut:
+Saat mengupload file dari Django Admin ke S3, muncul error berikut:
 
 ```
 An error occurred (XAmzContentSHA256Mismatch) when calling the PutObject operation: None
